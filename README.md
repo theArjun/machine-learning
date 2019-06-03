@@ -1,9 +1,11 @@
 # Machine Learning
 
+**✍ Arjun Adhikari**
+
 Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.   
 Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
 
-### Introduction to Numpy  
+## Introduction to Numpy  
 ![Numpy](https://cdn-images-1.medium.com/max/1600/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg)
 
 1. [Numpy Basics and Slicing](https://nbviewer.jupyter.org/github/theArjun/machine-learning/blob/master/numpy/Numpy%20Basics.ipynb)
@@ -20,7 +22,7 @@ Machine learning focuses on the development of computer programs that can access
 12. [Regression](https://nbviewer.jupyter.org/github/theArjun/machine-learning/blob/master/numpy/Regression.ipynb)
 
 
-### Linear Algebra
+## Linear Algebra
 
 ![Linear Algebra](https://cdn0.iconfinder.com/data/icons/presentation-graphs-vol-2/48/v-38-2-512.png)
 
@@ -28,7 +30,7 @@ Machine learning focuses on the development of computer programs that can access
 2. [Matrix Operations](https://nbviewer.jupyter.org/github/theArjun/machine-learning/blob/master/linear-algebra/Linear%20Algebra%20-%20One.ipynb)
 
 
-### Data Visualization
+## Data Visualization
 
 ![Data Visualization](https://s3.amazonaws.com/prime-web/app/uploads/July.28.18-GettyImages-509365976-Data-Visualization-Blog.jpg)
 
